@@ -2,4 +2,5 @@ tittle: Kasper Østerlie Gladsøy
 logo: /assets/img/headshot_circle.png
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-minima
+remote_theme: jekyll-theme-hacker
