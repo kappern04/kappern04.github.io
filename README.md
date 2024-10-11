@@ -1,13 +1,12 @@
-# Data Engineer
+# Kasper Østerlie Gladsøy - E-Portfolio
 
-### Education
-Coming soon
+Velkommen til min e-portefølje! Jeg er en førsteårsstudent på dataingeniørstudiet ved NTNU Ålesund, med tidligere utdanning fra Byåsen videregående skole. Mine interesser inkluderer sang, dataspill og astronomi. Her kan du utforske mine prosjekter, refleksjoner rundt læringsutbytte og utvikling gjennom studiet, inkludert programmeringsøvelser og gruppearbeid.
 
-### Work Experience
-Coming soon
-- 1
-- 2
+## Innhold:
+- Prosjektarbeid (Lego-programmering)
+- Refleksjoner og læring
+- Programmeringsøvinger (IDATT1003)
 
-### Projects
-Hill Sipher
-- 1
+Besøk porteføljen her: [kappern04.github.io](https://kappern04.github.io/)
+
+
