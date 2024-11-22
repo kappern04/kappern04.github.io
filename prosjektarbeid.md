@@ -23,6 +23,10 @@ Oppdragene krevde at vi kombinerte programmeringsferdigheter og kreativitet for 
 - **Iterativ testing**: Viktigheten av å teste, analysere og forbedre robotens ytelse.
 - **Mekanisk design**: Grunnleggende forståelse av hvordan ulike robotmekanismer fungerer for å utføre spesifikke oppgaver.
 
+![LEGO-roboten](assets/img/lego_robot.jpg)
+
+Her ser du roboten vi bygde og programmerte for å løse oppdragene i FLL Submerge.
+
 ### 2. Samarbeid og kommunikasjon
 - Jeg fikk innsikt i hvordan man arbeider som en del av et team med varierte ferdigheter og perspektiver.
 - Til tross for helsemessige utfordringer som påvirket deltakelsen min, lærte jeg å bidra gjennom kommunikasjon og støtte i planleggingsfasen.
