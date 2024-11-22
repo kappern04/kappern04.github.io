@@ -4,7 +4,6 @@ Velkommen til min e-portefølje! Jeg er en førsteårsstudent på dataingeniørs
 
 ## Innhold:
 - [Prosjektarbeid (Lego-programmering)](prosjektarbeid.md)
-- [Refleksjoner og læring](refleksjoner_og_læring.md)
 - [Programmeringsøvinger (IDATT1003)](programmeringsøvinger.md)
 
 Besøk porteføljen her: [kappern04.github.io](https://kappern04.github.io/)
