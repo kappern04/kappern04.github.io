@@ -47,3 +47,5 @@ Det jeg har lært kan direkte anvendes i profesjonell programvareutvikling:
 ### Generell kompetanse
 - Evnen til å anvende min kunnskap om OOP og programdesign til å løse praktiske programmeringsproblemer.
 - Forståelse av hvordan man utvikler og leverer kode som kan brukes i en profesjonell programvareutviklingskontekst.
+
+Tilbake til [min e-portefølje](README.md).
