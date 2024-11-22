@@ -1,4 +1,8 @@
-# Kasper Østerlie Gladsøy - E-Portfolio
+---
+title: "Kasper Østerlie Gladsøy - E-Portfolio"
+layout: default
+description: "Introduksjon til Kasper Østerlie Gladsøy og hans e-portefølje."
+---
 
 Velkommen til min e-portefølje! Jeg er Kasper Østerlie Gladsøy, en engasjert førsteårsstudent på dataingeniørstudiet ved NTNU Ålesund, med tidligere utdanning fra Byåsen videregående skole. Mine interesser spenner fra teknologi og dataspill til astronomi og musikk. Denne porteføljen er et innblikk i mine prosjekter, refleksjoner og læring underveis i studiet.
 
@@ -17,8 +21,8 @@ Jeg har en sterk interesse for hvordan verden fungerer og ønsker å bidra til u
 ## Innhold i porteføljen
 
 Her finner du:
-- **[LEGO](idata1004lego.md)**: Refleksjon LEGO-prosjekt IDATA1004 Teambasert samhandling 
-- **[Matsvin](idata1003matsvin.md)**: Refleksjon Mappevurdering matsvin Programmering 1 IDATA1003 
+- **[Prosjekter](prosjekter.md)**: Refleksjon LEGO-prosjekt IDATA1004 Teambasert samhandling 
+- **[Programmeringsøvelser](programmeringsøvelser.md)**: Refleksjon Mappevurdering matsvin Programmering 1 IDATA1003 
 
 ## Hvorfor e-portefølje?
 Denne porteføljen er designet for å vise frem mine ferdigheter og mål. Jeg ønsker å nå:
@@ -29,4 +33,3 @@ Denne porteføljen er designet for å vise frem mine ferdigheter og mål. Jeg ø
 
 Utforsk porteføljen min, og se hvordan jeg vokser som utvikler!  
 Besøk: [kappern04.github.io](https://kappern04.github.io/)
-
