@@ -1,9 +1,3 @@
----
-title: "Kasper Østerlie Gladsøy - E-Portfolio"
-layout: default
-description: "Introduksjon til Kasper Østerlie Gladsøy og hans e-portefølje."
----
-
 # Kasper Østerlie Gladsøy - E-Portfolio
 
 Velkommen til min e-portefølje! Jeg er Kasper Østerlie Gladsøy, en engasjert førsteårsstudent på dataingeniørstudiet ved NTNU Ålesund, med tidligere utdanning fra Byåsen videregående skole. Mine interesser spenner fra teknologi og dataspill til astronomi og musikk. Denne porteføljen er et innblikk i mine prosjekter, refleksjoner og læring underveis i studiet.
