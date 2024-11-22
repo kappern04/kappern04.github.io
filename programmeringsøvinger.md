@@ -1,47 +1,47 @@
-# Refleksjonsnotat - IDATT1003 Programmering 1
+---
+title: "Refleksjonsnotat: IDATT1003 Programmering 1"
+layout: default
+description: "Refleksjon og lærdom fra prosjektarbeid i programmering 1."
+---
 
-## 1. Hva var oppgaven?
+# Refleksjonsnotat: IDATT1003 Programmering 1
 
-I prosjektet skulle vi utvikle et program for å administrere matvarer i et kjøleskap. Hovedfokuset var å bruke objektorienterte prinsipper til å modellere matvarer og håndtere interaksjonene mellom objektene. Prosjektet inkluderte:
-- Implementering av klasser for ulike matvarer.
-- Håndtering av best-før datoer.
-- Bruk av lister for lagring og organisering av matvarer.
+## Oppgaven
+I prosjektet skulle jeg utvikle et program som håndterer matvarer i et kjøleskap og en kokebok med oppskrifter. Jeg skulle bruke objektorienterte prinsipper til å modellere objektene for matvarer, oppskrifter og kjøleskap, og utvikle et grafisk brukergrensesnitt (GUI) for å håndtere disse objektene. Dette inkluderte:
+- Implementering av klasser for matvarer, oppskrifter og kjøleskap.
+- Håndtering av best-før datoer og mengde for matvarer.
+- Bruk av GUI for interaktiv administrasjon.
 
-Dette gav meg innsikt i hvordan OOP kan strukturere komplekse systemer på en lettfattelig måte.
+---
 
-## 2. Hva lærte jeg?
+## Hva jeg lærte
 
-### Kunnskap om OOP
+### 1. Teknisk kunnskap
+- **Objektorientert programmering (OOP)**: Jeg lærte hvordan man kan bruke OOP til å lage modulære og gjenbrukbare klasser som representerer de ulike elementene i prosjektet, som matvarer og oppskrifter.
+- **GUI-programmering**: Jeg fikk praktisk erfaring med JavaFX for å lage et grafisk brukergrensesnitt, noe som gjorde programmet interaktivt og brukervennlig.
+- **Datastrukturer og samlinger**: Jeg lærte å bruke lister for å lagre objektene (som matvarer og oppskrifter) og hvordan man kan manipulere disse dataene effektivt.
 
-Gjennom prosjektet lærte jeg hvordan objektorientert programmering (OOP) gir mulighet for effektiv kodeorganisering og vedlikehold. Jeg fikk praktisk erfaring med:
-- **Innkapsling**: For eksempel skjulte vi detaljer som best-før datoene i matvareklassene, og interagerte kun med metodene for å få eller oppdatere disse dataene.
-- **Modularisering**: Hver matvare og kjøleskap ble modellert som egne klasser, noe som gjorde det lettere å utvikle og teste.
-- **Samhandling mellom objekter**: Objektene, som matvarer og kjøleskap, kommuniserte ved å sende meldinger som "leggTilMatvare" eller "sjekkBestForDato".
+### 2. Programdesign
+- **Lagdelt arkitektur**: Jeg fikk erfaring med å bruke en lagdelt arkitektur for å skille logikk og grensesnitt i applikasjonen, noe som forbedret vedlikeholdbarheten.
+- **Kobling og kohesjon**: Jeg lærte hvordan man strukturerer klasser på en måte som maksimerer kohesjon og reduserer kobling, noe som gjorde koden mer robust og testbar.
 
-### Programdesign og arkitektur
-Jeg fikk dypere innsikt i **lagdelt arkitektur** og hvordan det gjør det lettere å isolere og endre spesifikke deler av programmet. For eksempel ble forretningslogikken separert fra grensesnittet ved at kjøleskapet og matvarer ble behandlet i egne moduler.
+### 3. Funksjonell programmering og unntakshåndtering
+- Jeg fikk også en introduksjon til funksjonell programmering og bruk av lambda-uttrykk og streams for å håndtere samlinger.
+- Jeg lærte grunnleggende unntakshåndtering, som gjorde programmet mer robust ved å håndtere feil på en kontrollert måte.
 
-## 3. Hvordan kan jeg bruke det jeg har lært i en jobb kontekst?
+---
 
-Det jeg har lært kan direkte anvendes i profesjonell programvareutvikling:
-- **Objektorientert design** gir meg verktøy for å strukturere store, modulære systemer, som i webapplikasjoner eller programvare for kompleks databehandling.
-- Jeg kan bruke **testdrevet utvikling** (TDD) for å utvikle robust kode og sikre at funksjonalitet alltid fungerer som forventet før implementering i produksjon.
-- Kunnskap om **versjonskontroll (Git)** er uvurderlig når man jobber i team for å koordinere endringer og sikre at kode alltid kan rulles tilbake ved behov.
+## Hvordan jeg kan bruke dette i en jobbkontekst
+Erfaringene fra prosjektet gir meg ferdigheter som er nyttige i en profesjonell utviklingskontekst:
+- **Objektorientert design** for å utvikle systemer som er lett vedlikeholdbare og utvidbare.
+- **GUI-utvikling**: Erfaring med å lage brukervennlige applikasjoner.
+- **Funksjonell programmering**: Bruk av lambda-uttrykk og streams for å effektivt håndtere samlinger og datastrukturer.
+- **Feilhåndtering**: Evnen til å implementere robust feilhåndtering i applikasjoner.
+- **Enhetstesting**: Jeg har lært å skrive tester for å sikre at programmet fungerer som det skal før det tas i bruk.
 
-## 5. Læringsutbytte
+---
 
-### Kunnskap
-- Objektorientert programmering (OOP): Prinsipper som innkapsling, modularisering og samhandling mellom objekter.
-- Forståelse av lagdelt arkitektur og betydningen av god kodeorganisering.
-- Kunnskap om god kodedesign, som kobling og kohesjon, og hvordan disse prinsippene gir mer robust og vedlikeholdbar kode.
-
-### Ferdigheter
-- Erfaring med OOP for å løse praktiske problemer.
-- Bruk av profesjonelle verktøy som Git for versjonskontroll og testing for kodekvalitet.
-- Evnen til å skrive robust kode, inkludert unntakshåndtering og feilsøking.
-
-### Generell kompetanse
-- Evnen til å anvende min kunnskap om OOP og programdesign til å løse praktiske programmeringsproblemer.
-- Forståelse av hvordan man utvikler og leverer kode som kan brukes i en profesjonell programvareutviklingskontekst.
+## Oppsummering
+Gjennom prosjektet i Programmering 1 har jeg fått verdifull erfaring med objektorientert programmering, GUI-utvikling, og funksjonell programmering. Jeg har lært hvordan man kan strukturere koden på en modulær og vedlikeholdbar måte, samt hvordan man kan håndtere samlinger, feil og tester i programmet. Disse ferdighetene er viktige for videre studier og profesjonell programvareutvikling.
 
 Tilbake til [min e-portefølje](README.md).
