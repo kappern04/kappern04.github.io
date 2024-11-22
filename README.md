@@ -17,8 +17,8 @@ Jeg har en sterk interesse for hvordan verden fungerer og ønsker å bidra til u
 ## Innhold i porteføljen
 
 Her finner du:
-- **[Prosjekter](prosjektarbeid.md)**: Refleksjon LEGO-prosjekt IDATA1004 Teambasert samhandling 
-- **[Programmeringsøvelser](programmeringsøvelser.md)**: Refleksjon Mappevurdering matsvin Programmering 1 IDATA1003 
+- **[LEGO](idata1004lego.md)**: Refleksjon LEGO-prosjekt IDATA1004 Teambasert samhandling 
+- **[Matsvin](idata1003matsvin.md)**: Refleksjon Mappevurdering matsvin Programmering 1 IDATA1003 
 
 ## Hvorfor e-portefølje?
 Denne porteføljen er designet for å vise frem mine ferdigheter og mål. Jeg ønsker å nå:
