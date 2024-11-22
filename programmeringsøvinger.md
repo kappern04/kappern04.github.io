@@ -21,11 +21,7 @@ Gjennom prosjektet lærte jeg hvordan objektorientert programmering (OOP) gir mu
 ### Programdesign og arkitektur
 Jeg fikk dypere innsikt i **lagdelt arkitektur** og hvordan det gjør det lettere å isolere og endre spesifikke deler av programmet. For eksempel ble forretningslogikken separert fra grensesnittet ved at kjøleskapet og matvarer ble behandlet i egne moduler.
 
-## 3. Hva var mitt bidrag i gruppearbeidet?
-
-Jeg utviklet hovedlogikken i systemet, inkludert funksjonaliteten for å legge til matvarer, sjekke best-før datoer og oppdatere mengder. Jeg var også ansvarlig for å implementere enhetstester som sikret at programmet håndterte både vanlige og ekstreme tilfeller korrekt, som f.eks. utløpne best-før datoer.
-
-## 4. Hvordan kan jeg bruke det jeg har lært i en jobb kontekst?
+## 3. Hvordan kan jeg bruke det jeg har lært i en jobb kontekst?
 
 Det jeg har lært kan direkte anvendes i profesjonell programvareutvikling:
 - **Objektorientert design** gir meg verktøy for å strukturere store, modulære systemer, som i webapplikasjoner eller programvare for kompleks databehandling.
