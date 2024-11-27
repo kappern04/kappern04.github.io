@@ -38,8 +38,6 @@ Her ser du roboten vi bygde og programmerte for å løse oppdragene i FLL Submer
 
 ## Mitt bidrag i gruppearbeidet
 - **Idéutvikling**: Bidro med forslag til strategier og mekaniske løsninger i oppstartsfasen.
-- **Dokumentasjon**: Hjalp med å utarbeide prosjektrapporten og sikre at dokumentasjonen reflekterte teamets arbeid og resultater.
-- **Motivasjon og støtte**: Oppmuntret teamet og sørget for at alle hadde en klar forståelse av oppgavene.
 
 ---
 
